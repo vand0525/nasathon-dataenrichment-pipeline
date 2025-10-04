@@ -1,0 +1,17 @@
+{
+  "name": "Enrich Data",
+  "version": "1.0.0",
+  "description": "Send the parsed json up to an LLM for additional properties, then to an embedder",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "openai": "^6.1.0"
+  }
+}
