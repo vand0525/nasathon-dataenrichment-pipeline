@@ -1,0 +1,17 @@
+{
+	"name": "upload",
+	"version": "1.0.0",
+	"description": "",
+	"main": "upload.js",
+	"scripts": {
+		"start": "node upload.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"type": "module",
+	"dependencies": {
+		"dotenv": "^17.2.3",
+		"mongoose": "^8.19.0"
+	}
+}
